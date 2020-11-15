@@ -1,0 +1,20 @@
+E:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+E:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+E:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csprojAssemblyReference.cache
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.InventoryMain.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Login.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Products.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Stock.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.AvailableReport.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.OutofStockReport.resources
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.About.resources
+E:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.manifest
+E:\Inventory Management\Inventory Management\bin\Debug\Inventory Management.application
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe.manifest
+E:\Inventory Management\Inventory Management\obj\Debug\Inventory Management.application
